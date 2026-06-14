@@ -11,11 +11,11 @@ Delivered 5 data-backed HR recommendations.
 
 ## Key Findings
 
-- Sales department attrition (XX%) is Xx higher than R&D (XX%)
-- Overtime employees are Xx more likely to quit than non-overtime employees
-- Employees aged 30 and under have a XX% attrition rate vs XX% for 45+
-- Churned employees earned $X,XXX/month vs $X,XXX for retained employees
-- Attrition peaks at year X of tenure — the highest-risk onboarding window
+- Sales department attrition (21%) is 1.56x higher than R&D (13.5%)
+- Overtime employees are 2.8x more likely to quit than non-overtime employees
+- Employees aged 30 and under have a 26% attrition rate vs 11.46% for 45+
+- Churned employees earned 4787/month vs 6832/month for retained employees
+- Attrition peaks at initial years i.e 18-25 — the highest-risk onboarding window
 
 ---
 
@@ -43,9 +43,9 @@ Delivered 5 data-backed HR recommendations.
 
 ## Business Recommendations
 
-1. **Sales retention is critical** — attrition XX% vs industry avg 10-15%
-2. **Cap mandatory overtime** — overtime employees are Xx more likely to leave
-3. **Invest in 0-2 year onboarding** — XX% churn in first 2 years
+1. **Sales retention is critical** — attrition 20.6% vs industry avg 10-15%
+2. **Cap mandatory overtime** — overtime employees are 2.8x more likely to leave than the non-overtime ones.
+3. **Invest in 0-2 year onboarding** — 43.9% churn in first 2 years
 4. **Salary benchmarking** — bottom 25% earners drive disproportionate attrition
 5. **Young talent program** — employees under 30 need structured growth paths
 
